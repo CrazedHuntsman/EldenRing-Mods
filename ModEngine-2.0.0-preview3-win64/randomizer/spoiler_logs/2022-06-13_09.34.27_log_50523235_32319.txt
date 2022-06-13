@@ -1,0 +1,61 @@
+Options and seed: allmaps bosshp earlylegacy editnames enemy item mats raceloc_health raceloc_shops racemode racemode_health racemode_upgrades regularhp scale spellshops v4 weaponprogression bias:0 seed:50523235
+
+Ctrl+F 'Boss placements' or 'Miniboss placements' or 'Basic placements' to see enemy placements.
+Ctrl+F 'Hints' to see item placement hints, or Ctrl+F for a specific item name.
+Version: v0.4.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System.Exception: Could not place all key items... giving up now. This can happen on some seeds or with some options.
+   at RandomizerCommon.Permutation.AssignItemsToLocations(Random random, SiloPermutation silo, List`1 items, List`1 locations, Dictionary`2 restrict, Dictionary`2 effectiveLocation, Boolean partialLocations)
+   at RandomizerCommon.Permutation.Logic(Random random, RandomizerOptions options, Preset preset)
+   at RandomizerCommon.Randomizer.Randomize(RandomizerOptions opt, FromGame type, Action`1 notify, String outPath, Preset preset, Messages messages, Boolean encrypted, String gameExe)
+   at RandomizerCommon.EldenForm.<>c__DisplayClass52_0.<randomize_Click>b__0()

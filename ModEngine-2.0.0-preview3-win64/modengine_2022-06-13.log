@@ -1,0 +1,11 @@
+[2022-06-13 09:44:08.611] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2022-06-13 09:44:08.611] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2022-06-13 09:44:08.611] [modengine] [info] Main thread ID: 112976
+[2022-06-13 09:44:08.614] [modengine] [info] Enabling extension base
+[2022-06-13 09:44:08.614] [modengine] [info] Enabled extension base
+[2022-06-13 09:44:08.614] [modengine] [info] Enabling extension mod_loader
+[2022-06-13 09:44:08.614] [modengine] [info] Installing mod location randomizer
+[2022-06-13 09:44:08.615] [modengine] [info] Resolved mod path to C:\Users\Damie\Desktop\ModEngine-2.0.0-preview3-win64\randomizer
+[2022-06-13 09:44:08.615] [modengine] [info] Enabled extension mod_loader
+[2022-06-13 09:44:08.705] [modengine] [info] Applied 3 hooks
+[2022-06-13 09:44:08.707] [modengine] [info] Starting worker thread
